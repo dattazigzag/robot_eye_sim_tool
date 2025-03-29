@@ -2,7 +2,7 @@
 
 This project consists of 3 components / projects / modules.
 
-It contains parts of a PoC that shows modular tools and blocks that can used by various stakeholders to create simple but rich eye animations and be tested on a desktop based system - thus making it effective for deisgners to deisgn and study design patterns for eye animations on constrained 8x8 addreseable LED matrix displays.
+It contains parts of a PoC that shows modular tools and blocks that can used by various stakeholders to create simple but rich eye animations and be tested on a desktop based system - thus making it effective for designers to design and study design patterns for eye animations on constrained 8x8 addressable LED matrix displays.
 
 ![alt text](_assets/image.png)
 
