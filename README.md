@@ -8,6 +8,8 @@ It contains parts of a PoC that shows modular tools and blocks that can used by 
 
 👉🏻 [Architechture PDF](<PoC Architechture.pdf>)
 
+🎬 [Video here](https://youtu.be/r1EzEPxQa40)
+
 ---
 
 1. [Mic level_ monitor](https://github.com/dattazigzag/mic_level_monitor): A rich python  TUI based terminal application that can be mainly configured to detect volume level changes and send these as triggers via MQTT to a mosquitto broker.  __Usecase:__ _Well, say you want a robot's eye to react to some sound ..._
